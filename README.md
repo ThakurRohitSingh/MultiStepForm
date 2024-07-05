@@ -5,7 +5,7 @@
 This project implements a multi-step form with a dark mode toggle. The form collects personal and address information and provides a confirmation step.
 
 ## Project Structure
-
+```
 /src
 /components
 MultiStepForm.jsx
@@ -19,6 +19,7 @@ main.jsx
 index.html
 package.json
 README.md
+```
 
 ## Assumptions and Decisions
 
