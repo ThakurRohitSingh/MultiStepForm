@@ -1,5 +1,7 @@
 # Multi-Step Form Project
 
+# This is the assignment submission.
+
 ## Description
 
 This project implements a multi-step form with a dark mode toggle. The form collects personal and address information and provides a confirmation step.
